@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeTAPyTool_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xAA020F54,
+				0xF4473B84,
 				0x4385F8A5,
 				METADATA_PARAMS(nullptr, 0)
 			};

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TAPyTool-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\CG-Project\PythonPlugin\Intermediate\Build\Win64\PythonPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Module.TAPyTool.cpp.obj"
+"G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Module.TAPyTool.gen.cpp.obj"
+"G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Default.rc2.res"
+/OUT:"G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\UE4Editor-TAPyTool-0001.lib"

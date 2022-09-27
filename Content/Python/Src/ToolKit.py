@@ -4,9 +4,9 @@ import unreal
 from PySide2 import QtWidgets,QtCore,QtGui
 
 class UToolKit(QtWidgets.QDialog):
+    tonemapper = True
     def __init__(self, parent = None):
         super(UToolKit, self).__init__(parent)
-
         self.setWindowTitle("UToolKit")
         self.setMinimumWidth(200)
         self.create_widgets()
@@ -37,7 +37,13 @@ class UToolKit(QtWidgets.QDialog):
             # print("换成中文")
 
     def closeTonemapfile(self):
-        unreal.ExcuteComanndBPLibrary.excute_comannd_sample_function("r.TonemapperFilm 0")
+        if(self.tonemapper == True):
+            unreal.TAPyToolBPLibrary.excute_command("r.TonemapperFilm 0")
+            self.tonemapper = False
+        else:
+            unreal.TAPyToolBPLibrary.excute_command("r.TonemapperFilm 1")
+            self.tonemapper = True
+
 
 
 

@@ -29,4 +29,9 @@ class UTAPyToolBPLibrary : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable, meta = (DisplayName = "Execute Sample function", Keywords = "TAPyTool sample test testing"), Category = "TAPyToolTesting")
 	static float TAPyToolSampleFunction(float Param);
+
+
+public:
+	UFUNCTION(BlueprintCallable, meta = (DisplayName = "Execute Sample function"))
+	static void ExcuteCommand(FString ConsoleCommand);
 };

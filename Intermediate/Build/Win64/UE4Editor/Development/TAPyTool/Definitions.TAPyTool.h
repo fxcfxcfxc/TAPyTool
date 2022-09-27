@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME TPS_character
-#define UE_TARGET_NAME TPS_characterEditor
+#define UE_PROJECT_NAME PythonPlugin
+#define UE_TARGET_NAME PythonPluginEditor
 #define UE_MODULE_NAME "TAPyTool"
 #define UE_PLUGIN_NAME "TAPyTool"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
