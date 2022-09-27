@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TAPyTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\jszx\Client\UE_Tps\TPSDemoCharacter\Intermediate\Build\Win64\TPS_characterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\jszx\Client\UE_Tps\TPSDemoCharacter\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Module.TAPyTool.cpp.obj"
+"F:\jszx\Client\UE_Tps\TPSDemoCharacter\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Module.TAPyTool.gen.cpp.obj"
+"F:\jszx\Client\UE_Tps\TPSDemoCharacter\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Default.rc2.res"
+/OUT:"F:\jszx\Client\UE_Tps\TPSDemoCharacter\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\UE4Editor-TAPyTool.lib"
