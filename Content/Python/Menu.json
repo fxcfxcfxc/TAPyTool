@@ -1,0 +1,35 @@
+{
+  "section": {
+    "Model": "模型",
+    "Anim": "动画",
+    "FX": "特效",
+    "Render": "渲染",
+    "Help":"帮助"
+  },
+  "menu": {
+    "Model_Tool": {
+      "section": "Model",
+      "label": "CMD命令行工具",
+      "type": "COMMAND",
+      "command": "py \"/Src/ToolKit.py\""
+    },
+    "Anim_Tool": {
+      "section": "Anim",
+      "label": "动画导入比较工具",
+      "type": "COMMAND",
+      "command": "py \"/Src/ToolKit.py\""
+    },
+    "FX_Tool": {
+      "section": "FX",
+      "label": "Sequencer 导出选择元素动画 为 骨骼蒙皮",
+      "type": "COMMAND",
+      "command": "py \"/Src/ToolKit.py\""
+
+    }
+
+
+  }
+
+
+}
+
