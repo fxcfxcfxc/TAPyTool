@@ -1,6 +1,0 @@
-G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Development\TAPyTool\Definitions.TAPyTool.h
-G:/CG-Project/PythonPlugin/Plugins/TAPyTool/Source/TAPyTool/Private/TAPyTool.cpp
-G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Source\TAPyTool\Public\TAPyTool.h
-G:/CG-Project/PythonPlugin/Plugins/TAPyTool/Source/TAPyTool/Private/TAPyToolBPLibrary.cpp
-G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Source\TAPyTool\Public\TAPyToolBPLibrary.h
-G:\CG-Project\PythonPlugin\Plugins\TAPyTool\Intermediate\Build\Win64\UE4Editor\Inc\TAPyTool\TAPyToolBPLibrary.generated.h
